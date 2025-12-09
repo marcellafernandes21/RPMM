@@ -3,6 +3,16 @@
 
 ## 📋 Descrição
 Este trabalho foi desenvolvido como parte da disciplina Resolução de Problemas via Modelagem Matemática na Universidade Federal de São Paulo (UNIFESP) - Instituto de Ciência e Tecnologia, campus São José dos Campos.
+# Modelo BCT Noturno com letras A–E fixas
+
+Cada disciplina aberta escolhe **exatamente uma letra (A–E)** e cada letra tem 2 horários fixos na semana, na grade:
+
+|        | Seg | Ter | Qua | Qui | Sex |
+|--------|-----|-----|-----|-----|-----|
+| 19–21h |  A  |  C  |  E  |  B  |  D  |
+| 21–23h |  B  |  D  |  A  |  C  |  E  |
+
+O modelo decide quais disciplinas abrir, qual letra usar e quais alunos cursam cada disciplina.
 
 ## 👥 Autores
 - Eduardo Lopes Arrais de Oliveira (RA: 168804)
